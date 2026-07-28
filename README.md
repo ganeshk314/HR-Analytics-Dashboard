@@ -7,7 +7,7 @@ An interactive **Power BI dashboard** designed to analyze workforce performance,
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/HR-Dshboard.gif" alt="HR Analytics Dashboard" width="100%">
+<img src="Images/HR-Dshboard.gif" alt="HR Analytics Dashboard" width="100%">
 </p>
 ---
 
