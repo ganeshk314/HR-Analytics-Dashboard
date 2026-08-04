@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** designed to analyze workforce performance,
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/Dashboard.png)
+![Dashboard Preview](Images/HR-Dashboard.gif)
 
 ---
 
