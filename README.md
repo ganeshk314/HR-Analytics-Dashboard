@@ -6,7 +6,14 @@ An interactive **Power BI dashboard** designed to analyze workforce performance,
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/HR-Dashboard.gif)
+![Dashboard Preview](Images/Dashboard.png)
+
+
+<p align="center">
+  <img src="images/HR-Dashboard.gif" alt="PhonePe Analytics Dashboard" width="100%">
+</p>
+
+
 
 ---
 
