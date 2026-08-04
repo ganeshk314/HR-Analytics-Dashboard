@@ -10,8 +10,10 @@ An interactive **Power BI dashboard** designed to analyze workforce performance,
 
 gif preview 
 
+![Dashboard Preview](Images/Dashboard.png)
+
 <p align="center">
-  <img src="Images/HR-Dashboard.gif" alt="HR Analytics Dashboard" width="100%">
+  <img src="Images/Dashboard.gif" alt="HR Analytics Dashboard" width="100%">
 </p>
 
 
